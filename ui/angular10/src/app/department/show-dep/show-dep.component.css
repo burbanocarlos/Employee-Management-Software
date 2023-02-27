@@ -1,0 +1,31 @@
+.div-tres{
+    margin-left: 7%;
+    background-color:#303F9F;
+    height: 4.4em;
+    width: 85%;
+    
+}
+.search-input{
+    right: 100%;
+}
+.float-right.button{
+    margin-top: 7px;
+}
+.search {
+    font-size:x-large;
+    transform: scale(0.7);
+    float: right;
+    margin-top: 0.0px;
+}
+
+.table.colotT {
+    margin-left: 12%;
+    background-color: rgb(242, 242, 242);
+    width: 75%;
+    
+    
+}
+:host {
+    display:block;
+    background-color: #121212;
+}
