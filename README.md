@@ -1,5 +1,5 @@
 # Employee-Management-Software
-this is a website application created using Angugar for the front end
+this is a website application created using Angular for the front end
 Django for the back end.
 
 Features:
